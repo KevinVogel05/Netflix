@@ -1,5 +1,5 @@
 # Netflix
-#### [DE] - Data Exploration
+#### Data Exploration
 
 Netflix is one of the most popular streaming platforms out there. They provied their Users with a variety of Movies and TV Shows around the globe.
 
